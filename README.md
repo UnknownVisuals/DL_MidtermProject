@@ -17,7 +17,7 @@
 2. Clone this repository 📂
 
     ```
-    git clone https://github.com/UnknownVisuals/AdvMath_MidtermProject.git
+    git clone https://github.com/UnknownVisuals/DL_MidtermProject.git
     ```
 
 3. Enter Project Directory 📁
